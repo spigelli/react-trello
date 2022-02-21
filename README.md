@@ -1,3 +1,10 @@
+# React Trello Public Store
+>>>> ***This is a fork!***
+
+Allows exposing React Trello's internal redux store for better integration into existing redux applications
+
+<br />
+
 # React Trello
 
 Pluggable components to add a Trello (like) kanban board to your application
